@@ -4,7 +4,8 @@
 
 * personal statement
     * requires reading first
-
+    * requires work experience
+        * seed firm experience: when/what/who?
 * university visits
     * which, where, when, how, who with?
 
